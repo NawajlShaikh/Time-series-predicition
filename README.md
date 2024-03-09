@@ -2,7 +2,7 @@
 In a personal endevaour to learn about time series analysis and forecasting, I decided to reserach and explore various quantitative forecasting methods.This notebook documents contains the methods that can be applied to forecast stock price and model deployment using streamlit, along with a detailed explaination of the different metrics used to evaluate the forecasts.
 
 ## Goal: 
-The goal of this project was to predict future stock price based on previous gold price. I apply various quantitative methods, (i.e. Times Series Models and Causal Models) to forecast the Price of the stock available in the dataset obtained from Kaggle.
+The goal of this project was to predict future stock price based on previous stock price. I apply various quantitative methods, (i.e. Times Series Models and Causal Models) to forecast the Price of the stock available in the dataset obtained from Kaggle.
 
 ## Models covered in the Project include:
 
